@@ -3,6 +3,6 @@
  */
 public class Greeting_2 {
     public static void main(String... args) {
-        System.out.println("Hello people!");
+        System.out.println("Привет люди!");
     }
 }
